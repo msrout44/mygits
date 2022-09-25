@@ -1,4 +1,4 @@
 ---
 var: value
-mrunmaya: apache2
-rout: httpd
+ mrunmaya: apache2
+ rout: httpd
